@@ -10,6 +10,11 @@ Ingredients
  * spoon                                                            */
 1 rounded teaspoon scorpion pepper powder (substitute 2 fresh scorpion peppers)
 1 rounded teaspoon of ghost pepper powder (substitute 2 fresh ghost peppers)
+
+   If you use fresh ghost or scorpion peppers put them in a blender with the
+   water and the lemon juice and blend them into a slurry before adding to the
+   sauce
+
 1 rounded teaspoon of smoked paprika
 /* Convert this to actual liquid measurements of pulpy lemon juice */
 Juice and pulp of 1 1/2 lemons
@@ -20,6 +25,7 @@ Tools
 Sharp knife
 Cutting board
 citrus auger
+blender (if using fresh ghost and/or scorpion peppers)
 cooking pot
 large pot for boiling jars
 smaller pot for steaming lids
