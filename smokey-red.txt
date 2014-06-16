@@ -14,6 +14,7 @@ Ingredients
    If you use fresh ghost or scorpion peppers put them in a blender with the
    water and the lemon juice and blend them into a slurry before adding to the
    sauce
+A large handful of diced fresh cilantro
 
 1 rounded teaspoon of smoked paprika
 /* Convert this to actual liquid measurements of pulpy lemon juice */
