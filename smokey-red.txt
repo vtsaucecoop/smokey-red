@@ -80,6 +80,6 @@ Label jars with packed on date.
 
 Store sealed jars for up to 1 year.
 
-/* Yields about 9 pints */
+/* Yields about 3 pints */
 
 
